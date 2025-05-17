@@ -15,12 +15,12 @@
 
 # Step 3 Screenshot before data cleaning
 
-<img src="images/rawdata (1).png" alt="Alt Text" width="400">
+<img src="images/rawdata (1).png" alt="Alt Text" width="500">
 
 # Step 4 Screenshot after data cleaning
 
-<img src="images/normalizedata.png" alt="Alt Text" width="400">
+<img src="images/normalizedata.png" alt="Alt Text" width="500">
 
 # Step 5 Screenshot of ERD after normalizing the data
 
-<img src="images/ERD.png" alt="Alt Text" width="400">
+<img src="images/ERD.png" alt="Alt Text" width="650">
